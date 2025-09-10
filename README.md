@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi I'm Sharvil Sagalgile<br><br>🏫 Computer Science student at Nagar College</br><br>🧠 I make projects for fun</br><br>🔭 I am currently working on project_V01D</br>
+## Hi I'm Sharvil Sagalgile<br><br>🏫 Computer Science student at Nagar College</br><br>🧠 I make projects for fun</br><br>🔭 I am currently working on a blockchain project</br>
 
 
 ## 🌐 Socials:

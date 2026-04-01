@@ -56,10 +56,13 @@
 ![Backend Systems](https://img.shields.io/badge/Backend%20Systems-000?style=for-the-badge)
 ![System Design](https://img.shields.io/badge/System%20Design-000?style=for-the-badge)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=5H4RV1L&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=5H4RV1L&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=5H4RV1L&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=5H4RV1L&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=5H4RV1L&theme=tokyonight&hide_border=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5H4RV1L&layout=compact&theme=tokyonight&hide_border=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

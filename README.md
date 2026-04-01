@@ -1,9 +1,13 @@
-# 💫 About Me:
-## Hi I'm Sharvil Sagalgile<br><br>🏫 Computer Science student at Nagar College</br><br>🧠 I make projects for fun</br><br>🔭 I am currently working on a Web based game to learn cyber sec concepts</br>
+# 💫 About Me
+## Hey, I'm **Sharvil Sagalgile** 👋  <br>🎓 Computer Science student
+
+## I focus on building practical projects that involve real systems, databases, and deployment, not just theory. <br> <br>🔐 Currently developing a **cybersecurity learning game (web-based)**  <br>⚙️ Experience with Django, PostgreSQL, and full-stack fundamentals  
+
+I enjoy solving real problems and continuously improving through hands-on work.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/this_aint_void) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharvil-sagalgile-b5a539286) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharvilsagalgile@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/this_aint_void) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharvil-sagalgile-b5a539286) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharvilsagalgile@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://sharvil.site)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
